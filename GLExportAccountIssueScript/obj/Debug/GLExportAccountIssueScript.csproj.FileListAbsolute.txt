@@ -1,0 +1,7 @@
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\bin\Debug\GLExportAccountIssueScript.exe.config
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\bin\Debug\GLExportAccountIssueScript.exe
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\bin\Debug\GLExportAccountIssueScript.pdb
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\obj\Debug\GLExportAccountIssueScript.csprojAssemblyReference.cache
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\obj\Debug\GLExportAccountIssueScript.csproj.CoreCompileInputs.cache
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\obj\Debug\GLExportAccountIssueScript.exe
+C:\Users\glenn.purtill\source\repos\GLExportAccountIssueScript\GLExportAccountIssueScript\obj\Debug\GLExportAccountIssueScript.pdb
